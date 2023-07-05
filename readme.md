@@ -1,4 +1,5 @@
-## Content
+## PrimeFactor
 ---
-content
+PrimeFactor
+TDD KATA
 
