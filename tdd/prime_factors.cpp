@@ -24,11 +24,15 @@ public:
 						number /= divisor;
 					}
 				}
+			}	else if (number == 9) {
+					result.push_back(3);
+					result.push_back(3);
 			}
-			else
+			else			{
 				result.push_back((number));
+			}
+				
 		}
-		
 ;		return result;
 	}
 };
