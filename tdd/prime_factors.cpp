@@ -1,5 +1,12 @@
+#include <vector>
+#include <iostream>
+using namespace std;
 
-class PrimeFactors
+class PrimeFactor
 {
-	
+public:
+	vector<int>of(int i)
+	{
+		return {};
+	}
 };
